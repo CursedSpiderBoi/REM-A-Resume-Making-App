@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">REM: The Resume Maker</string>
+    <string name="btn_references">References</string>
+    <string name="btn_certifications">Certifications</string>
+    <string name="btn_experience">Experience</string>
+    <string name="btn_education">Education</string>
+    <string name="btn_summary">Summary</string>
+    <string name="btn_personal_details">Personal Details</string>
+    <string name="btn_profile_picture">Profile Picture</string>
+    <string name="btn_preview">Preview</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_discard">Discard</string>
+    <string name="hint_enter_certifications">Enter certifications</string>
+    <string name="et_full_name">Full Name</string>
+    <string name="et_email">Email</string>
+    <string name="tv_education_details">Education Details</string>
+    <string name="hint_Education_details">Enter your education details here...</string>
+    <string name="tv_certifications">Certifications</string>
+    <string name="tv_personal_details">Personal Details</string>
+    <string name="tv_profile_photo">Profile Photo</string>
+    <string name="hint_enter_experience">Enter experience</string>
+    <string name="tv_experience">Experience</string>
+    <string name="hint_enter_references">Enter references</string>
+    <string name="tv_references">References</string>
+    <string name="hint_enter_summary">Enter summary</string>
+    <string name="tv_summary">Summary</string>
+    <string name="tv_full_name">Full Name</string>
+    <string name="tv_contact_info">Contact Info</string>
+</resources>
